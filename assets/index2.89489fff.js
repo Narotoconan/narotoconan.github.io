@@ -1,0 +1,1 @@
+import{o as u,f as s}from"./popper.f9e7652b.js";var c={beforeMount(o,t){let e=null,a;const l=()=>t.value&&t.value(),n=()=>{Date.now()-a<100&&l(),clearInterval(e),e=null};u(o,"mousedown",r=>{r.button===0&&(a=Date.now(),s(document,"mouseup",n),clearInterval(e),e=setInterval(l,100))})}};export{c as v};
