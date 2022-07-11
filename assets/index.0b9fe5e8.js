@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{c as r,a as c}from"./index.78e2b5e2.js";const n={};function o(t,a){return c(),r("div",null,"regulation")}var f=e(n,[["render",o]]);export{f as default};
